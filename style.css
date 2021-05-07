@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: azure;
+}
+
+div{
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+
+}
+img {
+    height: 250px;
+    width: 350px;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+p {
+    font-family: 'Noto Sans KR', sans-serif; 
+}
